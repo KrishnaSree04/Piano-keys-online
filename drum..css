@@ -1,0 +1,82 @@
+body{
+    text-align:center;
+    background-image: url('https://png.pngtree.com/background/20211217/original/pngtree-notes-pale-yellow-color-watercolor-background-picture-image_1589066.jpg');
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Arvo', cursive;
+}
+.drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0d9c;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+.w{
+    background-image: url('https://img.freepik.com/free-vector/girl-cartoon-character-playing-piano_1308-55597.jpg?w=2000');
+    background-size: cover;
+}
+.s{
+    background-image: url('https://img.freepik.com/premium-vector/colorful-drum-with-two-sticks-middle_901492-570.jpg?w=2000');
+    background-size: cover;
+}
+.d{
+    background-image: url('https://i.pinimg.com/736x/c0/01/74/c00174a4a069e4cdd16abf9ecc5cf811.jpg');
+    background-size: cover;
+}
+.l{
+    background-image: url('https://media.istockphoto.com/id/1003291820/vector/pan-flute-for-musical-performance.jpg?s=612x612&w=0&k=20&c=cXu1J9JdQfNVMOyfdcfapMAuSOdBPEU2ON6eIspxdgA=');
+    background-size: cover;
+}
+.k{
+    background-image: url('https://media.istockphoto.com/id/1167936165/vector/vector-illustration-of-cute-little-girl-playing-the-flute-on-green-background.jpg?s=612x612&w=0&k=20&c=pHW2HxO_bioIPGVlv8cA1sk6utM2ze4TkCX_j2MG2-8=');
+    background-size: cover;
+}
+.j{
+    background-image: url('https://thumbs.dreamstime.com/b/vector-tabla-drums-illustration-clipart-cartoon-indian-musical-instrument-92007324.jpg');
+    background-size: cover;
+}
+.a{
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/690490390/display_1500/stock-vector-little-caucasian-boy-playing-the-piano-full-length-of-smiling-boy-in-glasses-standing-near-the-690490390.jpg');
+    background-size: cover;
+}
+.t{
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/690490390/display_1500/stock-vector-little-caucasian-boy-playing-the-piano-full-length-of-smiling-boy-in-glasses-standing-near-the-690490390.jpg');
+    background-size: cover;
+}
+.f{
+    background-image: url('https://media.istockphoto.com/id/1017890378/vector/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music.jpg?s=612x612&w=0&k=20&c=9tRSAvC1OZwyIKyFvVT53WtxYk_CNbVK6wbIU8kO9LI=');
+    background-size: cover;
+}
+.p{
+    background-image: url('https://i.pinimg.com/736x/c0/01/74/c00174a4a069e4cdd16abf9ecc5cf811.jpg');
+    background-size: cover;
+}
+.h{
+    background-image: url('https://img.freepik.com/free-vector/girl-cartoon-character-playing-piano_1308-55597.jpg?w=2000');
+    background-size: cover;
+}
+.b{
+    background-image: url('https://kidmons.com/assets/img/games/1200x630/piano.jpg');
+    background-size: cover;
+}
+footer{
+    font-family: 'Arvo', cursive;
+}
+.set{
+    padding:50px;
+}
